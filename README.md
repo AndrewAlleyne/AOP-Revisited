@@ -3,7 +3,7 @@
 The purpose of this project is to revisit the Aspect Orient Programming concepts of Spring Boot.
 
 # Motivation 🤔
-
+ 
 In large software projects, it's common for certain functionalities, such as logging, security, and error handling, to
 be repeated in many modules and classes. This can result in a cluttered codebase that's hard to maintain and understand.
 AOP offers a way to separate these cross-cutting concerns from the core business logic, so they can be managed
